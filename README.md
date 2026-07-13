@@ -1,4 +1,4 @@
-# Crime Analysis in Los Angeles (2020–2024)
+# Crime Analysis in Los Angeles (2020–2024)🩸🔪
 
 ## Overview
 
